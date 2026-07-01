@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Engineering Manager — Site Reliability & Software Systems opportunities.
 
-**Live:** https://rdammala.github.io/Google_Engineering-Manager-SRE/
+**Live:** https://rdammala-org.github.io/Google_Engineering-Manager-SRE/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
